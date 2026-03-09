@@ -1,0 +1,8 @@
+{
+  "input_unit": {
+    "wait_time": "second"
+  },
+  "output_unit": {
+    "wait_time": "day"
+  }
+}

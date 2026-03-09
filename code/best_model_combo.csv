@@ -1,0 +1,9 @@
+model_arch,model_dir,look_ahead_slot_count,look_ahead_slot_step_size,look_ahead_grid_size,number_of_routes_to_consider,feature_code,model_version
+mlp,../MODEL/ABS/MLP,2,4,2,4,cac,73
+cnn,../MODEL/ABS/CNN,,,,,cia,16
+mlp,../MODEL/MTD/MLP,1,2,1,1,cia-cac,48
+cnn,../MODEL/MTD/CNN,,,,,cia,55
+kan,../MODEL/MTD/KAN,1,2,3,2,cia-cac,0
+mlp,../MODEL/NYC/MLP,1,2,3,1,cia_cac,27
+cnn,../MODEL/NYC/CNN,,,,,cia,41
+kan,../MODEL/MTD/KAN,1,2,3,1,cia-cac,71
