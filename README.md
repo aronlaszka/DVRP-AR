@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the paper “Dynamic Vehicle Routing Problem with Prompt Confirmation of Advance Requests”, published at the [17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2026)](https://hscc.acm.org/2026/).
 
-**arXiv version:** *coming soon*
+**arXiv version:** [https://arxiv.org/abs/2603.07422](https://arxiv.org/abs/2603.07422)
 
 # DVRP-AR: Dynamic Vehicle Routing Problem with Prompt Confirmation of Advance Requests
 
